@@ -1,4 +1,4 @@
-## 👋 Fala aí, eu sou o João !
+## 👋 Fala aí!
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** – SENAI  
 💻 Focado em **Java, Spring Boot, MySQL e React**  
