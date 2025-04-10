@@ -1,4 +1,4 @@
-## 👋 Fala aí, eu sou [Seu Nome]!
+## 👋 Fala aí, eu sou o João !
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** – SENAI  
 💻 Focado em **Java, Spring Boot, MySQL e React**  
@@ -14,6 +14,8 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
 
 ---
